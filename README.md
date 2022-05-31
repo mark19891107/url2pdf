@@ -1,0 +1,1 @@
+docker run --rm -it -v C:\Users\out\:/out -p 3000:3000 mark19891107/url2pdf
